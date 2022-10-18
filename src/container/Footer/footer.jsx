@@ -13,9 +13,9 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">Ground Floor, W Dubai_The Palm West Crescent ,Palm Jumrirah,Dubai</p>
-        <p className="p__opensans">+1 212-344-1230</p>
-        <p className="p__opensans">+1 212-555-1230</p>
+        <p className="p__opensans">Ground Floor,Kolkata_The Palm West Crescent ,Palm Jumrirah,Kolkata</p>
+        <p className="p__opensans">+91 212-344-1230</p>
+        <p className="p__opensans">+91 212-555-1230</p>
       </div>
 
       <div className="app__footer-links_logo">
